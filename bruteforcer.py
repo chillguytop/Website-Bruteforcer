@@ -3,7 +3,7 @@ import random
 from threading import Thread
 import os
 
-url = "https://requestswebsite.notanothercoder.repl.co/confirm-login"
+url = ""
 username = 'admin'
 
 def send_request(username, password):
